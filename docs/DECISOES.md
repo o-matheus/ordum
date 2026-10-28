@@ -32,7 +32,8 @@
 - Definir limites operacionais para séries finitas e o tratamento de séries contínuas com início distante.
 - Definir fuso do agendamento, concorrência da geração e precisão do horizonte de doze meses.
 - Escolher a estrutura visual e bibliotecas de interface, se necessárias.
-- Definir responsabilidades, disponibilidade e primeiro ciclo do grupo.
+- Confirmar a disponibilidade de Lucas Yago e Nicole Ferraz na reunião de planejamento.
+- Definir data de início e fim da Sprint 1 com o time.
 
 ## Estado e origem
 

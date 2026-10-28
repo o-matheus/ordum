@@ -32,6 +32,16 @@ Revisar telas, mensagens, filtros, documentação de execução e testes. Execut
 
 **Aceite:** fluxos completos funcionam entre frontend, API e PostgreSQL.
 
-## Organização do grupo
+## Organização e Capacidade do Time
 
-Quantidade de participantes, disponibilidade, responsabilidades, duração dos ciclos e datas de entrega ainda não foram informadas. Definir esses pontos com o grupo antes de selecionar itens para um primeiro ciclo. A ordem acima não é um compromisso de prazo.
+- **Tamanho da equipe:** ~7 a 8 pessoas (todos atuando como full stack).
+- **Papel de Product Owner (PO):** Matheus.
+- **Disponibilidade semanal informada:**
+  - Matheus: 6h/semana
+  - Marcelo: 6h/semana
+  - Bianca: 6h/semana
+  - Fabio: 4h/semana
+  - Joniel: 4h/semana
+  - Lucas Yago e Nicole Ferraz: a confirmar na reunião (estimativa base: ~4h/semana cada).
+  - **Capacidade semanal estimada:** ~26h a 34h/semana total do time (ou ~38h se houver mais um integrante).
+- **Cadência recomendada:** Sprints de 2 semanas (para acomodar dedicação parcial, pair programming e ciclo completo de PRs e code review).

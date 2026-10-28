@@ -10,6 +10,7 @@ O grupo escolheu construir um controle de finanças pessoais para aprender com u
 4. [Plano de desenvolvimento](PLANO_DE_DESENVOLVIMENTO.md): sequência de entregas.
 5. [Validação](VALIDACAO.md): critérios e cenários de teste.
 6. [Decisões e pendências](DECISOES.md): escolhas confirmadas e detalhes ainda sujeitos à revisão.
+7. [Backlog do Produto](BACKLOG.md): épicos, histórias de usuário e tarefas para as sprints.
 
 ## Como manter estes registros
 
